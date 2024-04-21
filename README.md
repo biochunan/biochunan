@@ -26,7 +26,7 @@ I am open to collaborations on structural bioinformatics, protein datasets, geom
 <br>
 
 <a href="https://walle.abycloud.net">
-    <img src=figures/viewer.png width=150 align="right">
+    <img src=figures/viewer.png width=300 align="right">
 </a>
 
 - I host a 3D viewer for antibody-antigen interface analysis. Check it out at [AsEP](https://walle.abycloud.net)
