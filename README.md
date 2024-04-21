@@ -13,6 +13,9 @@ I am open to collaborations on structural bioinformatics, protein datasets, geom
   - :robot: The code is available at [CDR Conformation Classification](https://github.com/biochunan/CDRConformationClassification)
   - :card_index_dividers: The dataset is downloadable at [abYbank](http://www.abybank.org/abdb/snapshots/abdb_20220926.zip).
 
+<br>
+<br>
+
 <a href="https://www.linkedin.com/in/chunan-liu/details/projects/2107632729/multiple-media-viewer/?profileId=ACoAABaw1BIBZk-sKWMSz3hQLeUvJeAlW1DEBSU&treasuryMediaId=1713652376972">
     <img src=figures/poster.png width=100 align="right">
 </a>
@@ -20,6 +23,7 @@ I am open to collaborations on structural bioinformatics, protein datasets, geom
 - Nov 13-16, 2023: I present the above work at [PEGS Europe 2023](https://www.pegsummiteurope.com/) in Lisbon, Portugal :portugal:.
   - Check out the poster [here](https://www.linkedin.com/in/chunan-liu/details/projects/2107632729/multiple-media-viewer/?profileId=ACoAABaw1BIBZk-sKWMSz3hQLeUvJeAlW1DEBSU&treasuryMediaId=1713652376972)
 
+<br>
 <br>
 <br>
 <br>
