@@ -21,7 +21,7 @@ I am open to collaborations on structural bioinformatics, protein datasets, geom
 </a>
 
 - Nov 13-16, 2023: I present the above work at [PEGS Europe 2023](https://www.pegsummiteurope.com/) in Lisbon, Portugal :portugal:.
-  - Check out the poster [here](https://www.linkedin.com/in/chunan-liu/details/projects/2107632729/multiple-media-viewer/?profileId=ACoAABaw1BIBZk-sKWMSz3hQLeUvJeAlW1DEBSU&treasuryMediaId=1713652376972)
+  - 📊 Check out the poster [here](https://www.linkedin.com/in/chunan-liu/details/projects/2107632729/multiple-media-viewer/?profileId=ACoAABaw1BIBZk-sKWMSz3hQLeUvJeAlW1DEBSU&treasuryMediaId=1713652376972)
 
 <br>
 <br>
@@ -34,4 +34,4 @@ I am open to collaborations on structural bioinformatics, protein datasets, geom
 </a>
 
 - I host a 3D viewer for antibody-antigen interface analysis.
-  - Check it out at [AsEP](https://walle.abycloud.net)
+  - :eyes: Check it out at [AsEP](https://walle.abycloud.net)
