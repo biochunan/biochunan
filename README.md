@@ -16,7 +16,7 @@ I am open to collaborations on structural bioinformatics, protein datasets, geom
 <br>
 <br>
 
-<a href="https://www.linkedin.com/in/chunan-liu/details/projects/2107632729/multiple-media-viewer/?profileId=ACoAABaw1BIBZk-sKWMSz3hQLeUvJeAlW1DEBSU&treasuryMediaId=1713652376972">
+<a href="https://drive.google.com/file/d/10ZQahMxCc7Sp14RU0CVqCLS6M_Gv9AmQ/view?usp=sharing">
     <img src=figures/poster.png width=300 align="right">
 </a>
 
