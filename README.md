@@ -21,7 +21,7 @@ I am open to collaborations on structural bioinformatics, protein datasets, geom
 </a>
 
 - Nov 13-16, 2023: I present the above work at [PEGS Europe 2023](https://www.pegsummiteurope.com/) in Lisbon, Portugal :portugal:.
-  - 📊 Check out the poster [here](https://www.linkedin.com/in/chunan-liu/details/projects/2107632729/multiple-media-viewer/?profileId=ACoAABaw1BIBZk-sKWMSz3hQLeUvJeAlW1DEBSU&treasuryMediaId=1713652376972)
+  - 📊 Check out the poster [here](https://drive.google.com/file/d/10ZQahMxCc7Sp14RU0CVqCLS6M_Gv9AmQ/view?usp=sharing)
 
 <br>
 <br>
