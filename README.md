@@ -11,7 +11,7 @@ I am open to collaborations on structural bioinformatics, protein datasets, geom
 - Mar 13, 2024: our paper on the analysis of antibody CDR loop conformational change while binding to antigens is published on mAbs
   - :page_with_curl: You can find the paper at [doi.org/10.1080/19420862.2024.2322533](https://doi.org/10.1080/19420862.2024.2322533).
   - :robot: The code is available at [CDR Conformation Classification](https://github.com/biochunan/CDRConformationClassification)
-  - :card_index_dividers: The dataset is downloadable at [abYbank](http://www.abybank.org/abdb/snapshots/abdb_20220926.zip).
+  - :card_index_dividers: The dataset is downloadable from [🔗 abYbank](http://www.abybank.org/abdb/snapshots/abdb_20220926.zip) (to download, right-click the link and choose `Save link as...`)
 
 <br>
 <br>
